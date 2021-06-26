@@ -1,0 +1,15 @@
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.AssemblyInfoInputs.cache
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.AssemblyInfo.cs
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.csproj.CoreCompileInputs.cache
+D:\ky2\C#\program_interger\bin\Debug\net5.0\program_interger.exe
+D:\ky2\C#\program_interger\bin\Debug\net5.0\program_interger.deps.json
+D:\ky2\C#\program_interger\bin\Debug\net5.0\program_interger.runtimeconfig.json
+D:\ky2\C#\program_interger\bin\Debug\net5.0\program_interger.runtimeconfig.dev.json
+D:\ky2\C#\program_interger\bin\Debug\net5.0\program_interger.dll
+D:\ky2\C#\program_interger\bin\Debug\net5.0\ref\program_interger.dll
+D:\ky2\C#\program_interger\bin\Debug\net5.0\program_interger.pdb
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.dll
+D:\ky2\C#\program_interger\obj\Debug\net5.0\ref\program_interger.dll
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.pdb
+D:\ky2\C#\program_interger\obj\Debug\net5.0\program_interger.genruntimeconfig.cache
