@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\StudentDetails.exe
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\StudentDetails.deps.json
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\StudentDetails.runtimeconfig.json
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\StudentDetails.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\StudentDetails.dll
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\ref\StudentDetails.dll
+C:\Users\LENOVO\Desktop\StudentDetails\bin\Debug\net5.0\StudentDetails.pdb
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.dll
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\ref\StudentDetails.dll
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.pdb
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\StudentDetails\obj\Debug\net5.0\StudentDetails.csproj.AssemblyReference.cache
