@@ -1,0 +1,15 @@
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\Automatic Information.exe
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\Automatic Information.deps.json
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\Automatic Information.runtimeconfig.json
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\Automatic Information.runtimeconfig.dev.json
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\Automatic Information.dll
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\ref\Automatic Information.dll
+D:\ky2\C#\Automatic Information\bin\Debug\net5.0\Automatic Information.pdb
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.AssemblyInfoInputs.cache
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.AssemblyInfo.cs
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.csproj.CoreCompileInputs.cache
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.dll
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\ref\Automatic Information.dll
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.pdb
+D:\ky2\C#\Automatic Information\obj\Debug\net5.0\Automatic Information.genruntimeconfig.cache

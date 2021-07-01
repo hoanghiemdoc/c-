@@ -1,0 +1,15 @@
+D:\ky2\C#\Employee\bin\Debug\net5.0\Employee.exe
+D:\ky2\C#\Employee\bin\Debug\net5.0\Employee.deps.json
+D:\ky2\C#\Employee\bin\Debug\net5.0\Employee.runtimeconfig.json
+D:\ky2\C#\Employee\bin\Debug\net5.0\Employee.runtimeconfig.dev.json
+D:\ky2\C#\Employee\bin\Debug\net5.0\Employee.dll
+D:\ky2\C#\Employee\bin\Debug\net5.0\ref\Employee.dll
+D:\ky2\C#\Employee\bin\Debug\net5.0\Employee.pdb
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.dll
+D:\ky2\C#\Employee\obj\Debug\net5.0\ref\Employee.dll
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.pdb
+D:\ky2\C#\Employee\obj\Debug\net5.0\Employee.genruntimeconfig.cache
