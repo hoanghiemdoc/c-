@@ -1,0 +1,16 @@
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\Mod3_Lab1.exe
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\Mod3_Lab1.deps.json
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\Mod3_Lab1.runtimeconfig.json
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\Mod3_Lab1.runtimeconfig.dev.json
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\Mod3_Lab1.dll
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\ref\Mod3_Lab1.dll
+D:\ky2\C#\Mod3_Lab1\bin\Debug\net5.0\Mod3_Lab1.pdb
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.csproj.AssemblyReference.cache
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.AssemblyInfoInputs.cache
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.AssemblyInfo.cs
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.csproj.CoreCompileInputs.cache
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.dll
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\ref\Mod3_Lab1.dll
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.pdb
+D:\ky2\C#\Mod3_Lab1\obj\Debug\net5.0\Mod3_Lab1.genruntimeconfig.cache
