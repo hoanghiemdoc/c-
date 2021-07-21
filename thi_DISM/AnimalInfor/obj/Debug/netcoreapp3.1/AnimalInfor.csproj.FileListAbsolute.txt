@@ -1,0 +1,13 @@
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.csprojAssemblyReference.cache
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.csproj.CoreCompileInputs.cache
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.AssemblyInfoInputs.cache
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.AssemblyInfo.cs
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\bin\Debug\netcoreapp3.1\AnimalInfor.exe
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\bin\Debug\netcoreapp3.1\AnimalInfor.deps.json
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\bin\Debug\netcoreapp3.1\AnimalInfor.runtimeconfig.json
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\bin\Debug\netcoreapp3.1\AnimalInfor.runtimeconfig.dev.json
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\bin\Debug\netcoreapp3.1\AnimalInfor.dll
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\bin\Debug\netcoreapp3.1\AnimalInfor.pdb
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.dll
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.pdb
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\AnimalInfor\obj\Debug\netcoreapp3.1\AnimalInfor.genruntimeconfig.cache

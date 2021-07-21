@@ -1,0 +1,26 @@
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csprojAssemblyReference.cache
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.CoreCompileInputs.cache
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfoInputs.cache
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfo.cs
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.exe
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.deps.json
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.json
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.dev.json
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.dll
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.pdb
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.dll
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.pdb
+F:\hoc tap\Project_JetBrains Rider\ConsoleApp1\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.exe
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.deps.json
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.dev.json
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.dll
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.pdb
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.dll
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.pdb
+C:\Users\LENOVO\Downloads\Practical_PhamBaoNgoc\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.genruntimeconfig.cache
